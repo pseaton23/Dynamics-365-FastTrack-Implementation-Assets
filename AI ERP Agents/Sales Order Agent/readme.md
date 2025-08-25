@@ -118,5 +118,6 @@ After importing the sales order agent solution, consider the following to make t
 
 - **Sample document** - You can use the attached test pdf document for testing if you have the sample data available in your Finance and Operations environment. 
 
-
+ ## Disclaimer
+- Microsoft makes no warranties, express or implied. This solution is provided “as-is,” and may change without notice. You bear the risk of using it. 
 
